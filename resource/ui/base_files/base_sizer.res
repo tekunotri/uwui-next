@@ -80,6 +80,7 @@
 	"AmmoInReserve"
 	{
 		"fieldName"		"AmmoInReserve"
+		"ypos"			"-2" 
 		"zpos"			"7"
 		"textinsetx"	"66"
 		"wide"			"130"

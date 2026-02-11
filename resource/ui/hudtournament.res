@@ -461,6 +461,10 @@
 			"visible"		"0"
 			"ypos"			"0-2"
 		}
+		"if_competitive"
+		{
+			"visible"		"0"
+		}
 	}
 	
 	"BottomBG"
@@ -491,6 +495,10 @@
 		{
 			"visible"		"1"
 		}
+		"if_competitive"
+		{
+			"visible"		"0"
+		}	
 	}
 	
 	"TournamentBLUELabel"
