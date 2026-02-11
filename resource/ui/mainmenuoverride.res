@@ -1826,7 +1826,7 @@
 	
 	"Title"
 	{
-		"ControlName"	"CExLabel"
+		"ControlName"	"CExImageButton"
 		"fieldname"		"Title"
 		"xpos"			"0"
 		"ypos"			"1"
@@ -1836,15 +1836,23 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"font"			"ProductBold10"
-		"labelText"		"uwui"
+		"labelText"		"uwui-next"
 		"fgcolor"		"white"
-		
+		"Command"		"engine showconsole; clear; echo uwui-next; echo original by pigby, now (loosely) maintained by techno; echo github.com/tekunotri/uwui-next"
 		"bgcolor_override"	"Gray30"
 		
 		"proportionaltoparent"		"1"
 		"use_proportional_insets"	"1"
 		"textinsetx"				"7"
-		
+
+		"fgcolor_override"				"white"
+		"defaultFgColor_override"		"white"
+		"armedFgColor_override"			"accentM1"
+					
+		"bgcolor_override"				"Gray30"
+		"defaultBgColor_override"		"Gray30"
+		"armedBgColor_override"			"Gray30Mid"
+
 		"pin_to_sibling"		"ServerBrowserButton"
 		"pin_corner_to_sibling"	"2"
 		"pin_to_sibling_corner"	"0"		
