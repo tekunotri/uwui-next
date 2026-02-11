@@ -1,7 +1,7 @@
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
 
-"Resource/ui/base_meters.res"
+"resource/ui/base_meters.res"
 {	
 	HudItemEffectMeter
 	{

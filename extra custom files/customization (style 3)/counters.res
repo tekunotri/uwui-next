@@ -6,7 +6,7 @@
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
 
-"Resource/customization/counters.res"
+"resource/customization/counters.res"
 {	
 	"ItemEffectMeterLabel"
 	{

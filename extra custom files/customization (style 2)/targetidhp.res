@@ -1,7 +1,7 @@
 
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
-"Resource/customization/targetidhp.res"
+"resource/customization/targetidhp.res"
 {	
 	"TargetIDHealth"
 	{

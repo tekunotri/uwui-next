@@ -1,5 +1,5 @@
 #base "mvm/base_victorypanel.res"
-"Resource/UI/MvMVictoryPanel.res"
+"resource/ui/mvmvictorypanel.res"
 {
 	"StatsContainer"
 	{

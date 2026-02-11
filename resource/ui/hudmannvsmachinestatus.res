@@ -1,5 +1,5 @@
 #base "mvm/base_mvmhudlayout.res"
-"Resource/UI/HudMannVsMachineStatus.res"
+"resource/ui/hudmannvsmachinestatus.res"
 {	
 	"WaveStatusPanel"
 	{

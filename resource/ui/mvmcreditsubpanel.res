@@ -1,5 +1,5 @@
 #base "mvm/base_creditsubpanel.res"
-"Resource/UI/MvMCreditSubPanel.res"
+"resource/ui/mvmcreditsubpanel.res"
 {	
 	"HeaderLabel"
 	{

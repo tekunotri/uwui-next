@@ -1,5 +1,5 @@
 #base "mvm/base_bombcarrierprogresspanel.res"
-"Resource/UI/MvMBombCarrierProgressPanel.res"
+"resource/ui/mvmbombcarrierprogresspanel.res"
 {			
 	"BaseBackground"
 	{

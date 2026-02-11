@@ -1,5 +1,5 @@
 #base "mvm/base_wavestatuspanel.res"
-"Resource/UI/WaveStatusPanel.res"
+"resource/ui/wavestatuspanel.res"
 {
 	"Background"
 	{

@@ -1,5 +1,5 @@
 #base "mvm/base_victorymannupentry.res"
-"Resource/UI/MvMVictoryMannUpEntry.res"
+"resource/ui/mvmvictorymannupentry.res"
 {
 	"mannup_entry"
 	{

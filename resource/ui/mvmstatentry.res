@@ -1,5 +1,5 @@
 #base "mvm/base_statentry.res"
-"Resource/UI/MvMStatEntry.res"
+"resource/ui/mvmstatentry.res"
 {	
 	"ItemLabel"
 	{

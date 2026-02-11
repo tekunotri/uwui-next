@@ -10,7 +10,7 @@
 #base "base_files/base_sizer.res"
 //moves the rest of the values to a different file
 #base "base_files/base_uber.res"
-"Resource/UI/HudMedicCharge.res"
+"resource/ui/hudmediccharge.res"
 {	
 	"Spacer"
 	{

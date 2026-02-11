@@ -1,7 +1,7 @@
 #base "../../customization/spacer.res"
 #base "../../customization/meters.res"
 #base "base_files/base_meters.res"
-"Resource/UI/HudItemEffectMeter_Pyro.res"
+"resource/ui/huditemeffectmeter_pyro.res"
 {
 	"Spacer"
 	{
@@ -32,8 +32,8 @@
 	}
 }
 
-//#base "HudItemEffectMeter.res"
-//"Resource/UI/HudItemEffectMeter_Pyro.res"
+//#base "huditemeffectmeter.res"
+//"resource/ui/huditemeffectmeter_pyro.res"
 //{
 //	HudItemEffectMeter
 //	{

@@ -1,4 +1,4 @@
-"Resource/UI/build_menu/HudMenuEngyDestory.res"
+"resource/ui/build_menu/hudmenuengydestory.res"
 {
 	"MainBackground"	
 	{

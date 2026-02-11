@@ -23,7 +23,7 @@
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
 
-"Resource/customization/scoreboardsize.res"
+"resource/customization/scoreboardsize.res"
 {	
 	"MainBG"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/base_files/base_health.res"
+"resource/ui/base_files/base_health.res"
 {	
 	"Spacer"
 	{

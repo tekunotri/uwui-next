@@ -1,5 +1,5 @@
 #base "mvm/base_enemycountpanel.res"
-"Resource/UI/EnemyCountPanel.res"
+"resource/ui/enemycountpanel.res"
 {	
 	"EnemyCountPanel"
 	{

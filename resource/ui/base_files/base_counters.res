@@ -6,7 +6,7 @@
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
 
-"Resource/ui/base_counters.res"
+"resource/ui/base_counters.res"
 {	
 	HudItemEffectMeter
 	{

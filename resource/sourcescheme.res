@@ -5,7 +5,7 @@
 //
 
 //I stole this from ahud and then changed a bunch of stuff, but thanks any how to the ahud guy. :)
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 // for color customization
 #base "../customization/customcolors.res"
 Scheme
@@ -896,13 +896,13 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/HALFLIFE2.ttf"
-		"2"		"resource/HL2EP2.ttf"	
+		"1"		"resource/halflife2.ttf"
+		"2"		"resource/hl2ep2.ttf"	
 		"3"		"resource/marlett.ttf"
 		
 		"9"
 		{
-			"font"				"resource/TF2Build.ttf"
+			"font"				"resource/tf2build.ttf"
 			"name"				"TF2 Build"
 			"russian"
 			{

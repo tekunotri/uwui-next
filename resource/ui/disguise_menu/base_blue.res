@@ -1,4 +1,4 @@
-"Resource/UI/disguise_menu/base_blue.res"
+"resource/ui/disguise_menu/base_blue.res"
 {
 	"class_item_blue_1"
 	{

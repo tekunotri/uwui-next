@@ -1,5 +1,5 @@
 #base "mvm/base_mvmscoreboard.res"
-"Resource/UI/MvMScoreboard.res"
+"resource/ui/mvmscoreboard.res"
 {		
 	"WaveStatusPanel"
 	{

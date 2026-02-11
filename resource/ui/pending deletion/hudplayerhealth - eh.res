@@ -12,7 +12,7 @@
 #base "base_files/base_sizer.res"
 //moves the rest of the values to a different file
 #base "base_files/base_health.res"
-"Resource/UI/HudPlayerHealth.res"
+"resource/ui/hudplayerhealth.res"
 {	
 	"Spacer"
 	{

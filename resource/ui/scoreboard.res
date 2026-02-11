@@ -1,5 +1,5 @@
 #base "../../customization/scoreboardsize.res"
-"Resource/UI/Scoreboard.res"
+"resource/ui/scoreboard.res"
 {
 	"scores"
 	{

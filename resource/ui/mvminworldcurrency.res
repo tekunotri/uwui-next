@@ -1,5 +1,5 @@
 #base "mvm/base_inworldcurrency.res"
-"Resource/UI/MvMInWorldCurrency.res"
+"resource/ui/mvminworldcurrency.res"
 {
 	"BorderBG"
 	{

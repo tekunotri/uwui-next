@@ -1,5 +1,5 @@
 #base "mvm/base_criteria.res"
-"Resource/UI/MvMCriteria.res"
+"resource/ui/mvmcriteria.res"
 {
 	"MvMTourOfDutyGroupBox"
 	{

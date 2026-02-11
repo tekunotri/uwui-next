@@ -1,5 +1,5 @@
 #base "mvm/base_wavelosspanel.res"
-"Resource/UI/MvMWaveLossPanel.res"
+"resource/ui/mvmwavelosspanel.res"
 {
 	"DarkMask"
 	{

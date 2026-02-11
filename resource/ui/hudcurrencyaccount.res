@@ -1,5 +1,5 @@
 #base "mvm/base_currencyaccount.res"
-"Resource/UI/HudCurrencyAccount.res"
+"resource/ui/hudcurrencyaccount.res"
 {
 	"Currency"
 	{

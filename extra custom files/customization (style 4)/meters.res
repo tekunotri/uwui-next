@@ -3,7 +3,7 @@
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
 
-"Resource/customization/meters.res"
+"resource/customization/meters.res"
 {	
 // CHANGE THESE ===========================================================	
 //stickybomb launcher

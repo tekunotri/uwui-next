@@ -1,5 +1,5 @@
 #base "../../resource/customization/spacer.res"
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
 	"Spacer"
 	{

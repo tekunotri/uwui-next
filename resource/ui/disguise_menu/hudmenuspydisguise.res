@@ -1,6 +1,6 @@
 #base "base_red.res"
 #base "base_blue.res"
-"Resource/UI/disguise_menu/HudMenuSpyDisguise.res"
+"resource/ui/disguise_menu/hudmenuspydisguise.res"
 {
 	"MainBG"
 	{

@@ -2,7 +2,7 @@
 #base "../../customization/fontsizes.res"
 #base "../../customization/meters.res"
 #base "base_files/base_meters.res"
-"Resource/UI/HudDemomanPipes.res"
+"resource/ui/huddemomanpipes.res"
 {
 	"Spacer"
 	{

@@ -11,7 +11,7 @@
 #base "../../customization/crosshair.res"
 #base "../../customization/knucklescross.res"
 
-"Resource/UI/HudPlayerHealth.res"
+"resource/ui/hudplayerhealth.res"
 {	
 	"HudPlayerHealth"
 	{

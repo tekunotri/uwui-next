@@ -1,5 +1,5 @@
 #base "mvm/base_upgradeboxdialog.res"
-"Resource/UI/UpgradeBoxDialog.res"
+"resource/ui/upgradeboxdialog.res"
 {
 	"ConfirmDialog"
 	{

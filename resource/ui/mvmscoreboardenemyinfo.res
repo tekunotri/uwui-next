@@ -1,5 +1,5 @@
 #base "mvm/base_scoreboardenemyinfo.res"
-"Resource/UI/MvMScoreboardEnemyInfo.res"
+"resource/ui/mvmscoreboardenemyinfo.res"
 {	
 	"Background"
 	{

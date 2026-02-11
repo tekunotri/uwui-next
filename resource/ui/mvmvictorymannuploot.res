@@ -1,5 +1,5 @@
 #base "mvm/base_victorymannuploot.res"
-"Resource/UI/MvMVictoryMannUpLoot.res"
+"resource/ui/mvmvictorymannuploot.res"
 {	
 	"Marker"
 	{

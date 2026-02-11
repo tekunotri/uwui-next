@@ -1,5 +1,5 @@
 #base "mvm/base_victorymannuptab.res"
-"Resource/UI/MvMVictoryMannUpTab.res"
+"resource/ui/mvmvictorymannuptab.res"
 {	
 	"PlayerAvatar"
 	{

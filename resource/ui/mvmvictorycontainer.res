@@ -1,5 +1,5 @@
 #base "mvm/base_victorycontainer.res"
-"Resource/UI/MvMVictoryContainer.res"
+"resource/ui/mvmvictorycontainer.res"
 {
 	"Background"
 	{

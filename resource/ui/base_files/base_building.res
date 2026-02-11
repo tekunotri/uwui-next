@@ -1,4 +1,4 @@
-"Resource/UI/base_building.res"
+"resource/ui/base_building.res"
 {
 	"BuildingStatusItem"
 	{

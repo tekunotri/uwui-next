@@ -8,7 +8,7 @@
 #base "../../customization/meters.res"
 //contains most of the actual contents normally contained in this file
 #base "base_files/base_sizer.res"
-"Resource/UI/HudMedicCharge.res"
+"resource/ui/hudmediccharge.res"
 {		
 	"ChargeLabel"
 	{

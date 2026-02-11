@@ -1,7 +1,7 @@
 #base "../../customization/spacer.res"
 #base "../../customization/counters.res"
 #base "base_files/base_counters.res"
-"Resource/UI/HudItemEffectMeter_Sniper.res"
+"resource/ui/huditemeffectmeter_sniper.res"
 {
 	"Spacer"
 	{

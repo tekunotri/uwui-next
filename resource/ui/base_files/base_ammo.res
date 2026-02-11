@@ -1,4 +1,4 @@
-"Resource/UI/base_files/base_ammo.res"
+"resource/ui/base_files/base_ammo.res"
 {	
 	"Spacer"
 	{

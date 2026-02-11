@@ -1,5 +1,5 @@
 #base "mvm/base_victorymannuppanel.res"
-"Resource/UI/MvMVictoryMannUpPanel.res"
+"resource/ui/mvmvictorymannuppanel.res"
 {			
 	//Mouse over panel
 	"mouseoveritempanel"

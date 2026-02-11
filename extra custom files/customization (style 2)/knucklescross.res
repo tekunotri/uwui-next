@@ -1,4 +1,4 @@
-"Resource/customization/knucklescross.res"
+"resource/customization/knucklescross.res"
 {
 	"knuck"
 	{

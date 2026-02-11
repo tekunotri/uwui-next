@@ -1,5 +1,5 @@
 #base "mvm/base_victorysplash.res"
-"Resource/UI/MvMVictoryPanel.res"
+"resource/ui/mvmvictorypanel.res"
 {	
 	"SplashContainer"
 	{

@@ -78,7 +78,7 @@ Scheme
 		"2" "resource/tfd.ttf"
 		"3"
 		{
-			"font" "resource/TF2.ttf"
+			"font" "resource/tf2.ttf"
 			"name" "TF2"
 			"russian"
 			{
@@ -91,7 +91,7 @@ Scheme
 		}
 		"4" 
 		{
-			"font" "resource/TF2Secondary.ttf"
+			"font" "resource/tf2secondary.ttf"
 			"name" "TF2 Secondary"
 			"russian"
 			{
@@ -104,7 +104,7 @@ Scheme
 		}
 		"5" 
 		{
-			"font" "resource/TF2Professor.ttf"
+			"font" "resource/tf2professor.ttf"
 			"name" "TF2 Professor"
 			"russian"
 			{
@@ -117,7 +117,7 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 			"russian"
 			{
@@ -135,95 +135,95 @@ Scheme
 	//character fonts (blank, blocks, crosshairs)
 		"80"
 		{
-			"font" "resource/fonts/KnucklesCrosses.ttf"
+			"font" "resource/fonts/knucklescrosses.ttf"
 			"name" "KnucklesCrosses"
 		}
 		"90"
 		{
-			"font" "resource/fonts/Blocks.ttf"
+			"font" "resource/fonts/blocks.ttf"
 			"name" "Blocks"
 		}
 		"91" 
 		{
-			"font" "resource/fonts/AdobeBlank.ttf"
+			"font" "resource/fonts/adobeblank.ttf"
 			"name" "Adobe Blank"
 		}
 		"92" 
 		{
-			"font" "resource/fonts/Blank.ttf"
+			"font" "resource/fonts/blank.ttf"
 			"name" "BlankSerif"
 		}
 	//product
 		"100"
 		{
-			"font" "resource/fonts/ProductSans-Regular.ttf"
+			"font" "resource/fonts/productsans-regular.ttf"
 			"name" "Product Sans"
 		}
 		"101"
 		{
-			"font" "resource/fonts/ProductSans-Bold.ttf"
+			"font" "resource/fonts/productsans-bold.ttf"
 			"name" "Product Sans Bold"
 		}
 	//avenir
 		"110"
 		{
-			"font" "resource/fonts/AvenirLTStd-Black.otf"
+			"font" "resource/fonts/avenirltstd-black.otf"
 			"name" "AvenirLTStd-Black"
 		}
 		"111"
 		{
-			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"font" "resource/fonts/avenirltstd-medium.otf"
 			"name" "AvenirLTStd-Medium"
 		}
 		"112"
 		{
-			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"font" "resource/fonts/avenirltstd-heavy.otf"
 			"name" "AvenirLTStd-Heavy"
 		}
 		"113"
 		{
-			"font" "resource/fonts/AvenirLTStd-Book.otf"
+			"font" "resource/fonts/avenirltstd-book.otf"
 			"name" "AvenirLTStd-Book"
 		}
 		"114"
 		{
-			"font" "resource/fonts/MediumNumbers.otf"
+			"font" "resource/fonts/mediumnumbers.otf"
 			"name" "MediumNumbers"
 		}
 		"115" 
 		{
-			"font" "resource/fonts/LightNumbers.otf"
+			"font" "resource/fonts/lightnumbers.otf"
 			"name" "LightNumbers"
 		}
 		"116" 
 		{
-			"font" "resource/fonts/BoldNumbers.otf"
+			"font" "resource/fonts/boldnumbers.otf"
 			"name" "BoldNumbers"
 		}
 		"117"
 		{
-			"font" "resource/fonts/BlackNumbers.otf"
+			"font" "resource/fonts/blacknumbers.otf"
 			"name" "BlackNumbers"
 		}
 	//roboto
 		"121"
 		{
-			"font" "resource/fonts/Roboto-Regular.ttf"
+			"font" "resource/fonts/roboto-regular.ttf"
 			"name" "Roboto Regular"
 		}
 		"122"
 		{
-			"font" "resource/fonts/Roboto-Medium.ttf"
+			"font" "resource/fonts/roboto-medium.ttf"
 			"name" "Roboto Medium"
 		}
 		"123" 
 		{
-			"font" "resource/fonts/Roboto-Bold.ttf"
+			"font" "resource/fonts/roboto-bold.ttf"
 			"name" "Roboto Bold"
 		}
 		"124" 
 		{
-			"font" "resource/fonts/Roboto-Black.ttf"
+			"font" "resource/fonts/roboto-black.ttf"
 			"name" "Roboto Black"
 		}
 	}

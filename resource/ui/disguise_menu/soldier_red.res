@@ -1,5 +1,5 @@
 #base "base_disguise.res"
-"Resource/UI/disguise_menu/soldier_red.res"
+"resource/ui/disguise_menu/soldier_red.res"
 {
 	"ItemNameLabel"
 	{	

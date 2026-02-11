@@ -25,7 +25,7 @@
 //
 // File originally created by Pigby/uwu for use in uwui.
 // =====================================================================================
-"Resource/customization/spacer.res"
+"resource/customization/spacer.res"
 {	
 	"Spacer" //NEW AGE HUD TECHNOLOGY
 	{	
