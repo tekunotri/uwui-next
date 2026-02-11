@@ -11,7 +11,7 @@
 // basic crosshair support
 #base "scheme/crosshairs.res"
 // knuckles cross support
-#base	"scheme/knucklescrosses.res"
+#base "scheme/knucklescrosses.res"
 // loads in base TF2 scheme to fill in blanks
 #base "scheme/basescheme.res"
 

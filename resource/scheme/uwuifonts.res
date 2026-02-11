@@ -4,20 +4,63 @@ Scheme
 	{
 		"Default"
 		{
-			"1"
+		"1"
 			{
 				"name"		"Roboto Medium"
-				"tall"		"10"
-				"antialias" 	"1"
+				"tall"		"12"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"480 599"
 			}
 			"2"
 			{
 				"name"		"Roboto Medium"
-				"tall"		"12"
-				"antialias" 	"1"
+				"tall"		"13"	[$WIN32]
+				"tall"		"20"	[$X360]
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"600 767"
 			}
-			
-			
+			"3"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"14"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"768 1023"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"20"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1024 1199"
+				"antialias"	"1"
+			}
+			"5" // Misyl: Proportional
+			{
+				"name"		"Roboto Medium"
+				"tall"		"9"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"12"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"900"
+			}
+			"7"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"12"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"800"
+			}
 		}
 		"DefaultUnderline"
 		{
@@ -76,10 +119,9 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"22"
+				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
@@ -162,10 +204,9 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"30"
+				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
@@ -209,10 +250,39 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Roboto"
-				"tall" 		 "10"
-				"additive"	 "0"
-				"antialias"	 "1"
+				"name"		"Roboto"
+				"tall"		"12"
+				"weight"	"700"
+				"yres"	"480 599"
+			}
+			"2"
+			{
+				"name"		"Roboto"
+				"tall"		"13"	[$WIN32]
+				"tall"		"23"	[$X360]
+				"weight"	"700"
+				"yres"	"600 767"
+			}
+			"3"
+			{
+				"name"		"Roboto"
+				"tall"		"14"
+				"weight"	"700"
+				"yres"	"768 1023"
+			}
+			"4"
+			{
+				"name"		"Roboto"
+				"tall"		"20"
+				"weight"	"700"
+				"yres"	"1024 1199"
+			}
+			"5" // Misyl: Proportional
+			{
+				"name"		"Roboto"
+				"tall"		"12"
+				"weight"	"700"
+				"antialias"	"1"
 			}
 		}
 		"HudFontGiant"
@@ -321,6 +391,15 @@ Scheme
 			{
 				"name"		"Roboto"
 				"tall"		"30"
+				"additive"	"0"
+				"antialias" "1"
+				"yres"	"1 1199"
+			}
+			"2" // Misyl: Proportional
+			{
+				"name"		"Roboto"
+				"tall"		"10"
+				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
